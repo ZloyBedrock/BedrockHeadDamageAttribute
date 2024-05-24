@@ -1,0 +1,4 @@
+name: BedrockHeadDamageAttribute
+version: '${project.version}'
+main: ru.bedrockdev.bedrockheaddamageattribute.BedrockHeadDamageAttribute
+api-version: '1.16'
